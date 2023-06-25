@@ -8,7 +8,10 @@ A list of companies and organizations with noble missions. Note that this is a m
 | ----------- | ----------- |
 |18F (US Govt)|https://18f.gsa.gov|
 | Ad Hoc      | https://adhoc.team       |
+|Code for America|https://codeforamerica.org|
+|Coforma|https://coforma.io|
 | Nava | https://www.navapbc.com |
+|New America|https://www.newamerica.org|
 |Pluribus Digital|https://pluribusdigital.com|
 | Skylight Digital   | https://skylight.digital|
 |U.S. Digital Service (US Govt)|https://usds.gov|

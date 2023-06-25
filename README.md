@@ -60,8 +60,24 @@ A list of companies and organizations with noble missions. Note that this is a m
 |America Votes|https://americavotes.org|
 |VotingWorks|https://www.voting.works|
 
-## Food Waster
+## Food
 
 | Company      | Website |
 | ----------- | ----------- |
 |Afresh Technologies|https://www.afresh.com|
+|Feeding America|https://feedingamerica.org|
+
+## Health
+
+|Company|Website|
+|---|---|
+|BeneLynk|https://www.benelynk.com|
+|BetterHelp|https://www.betterhelp.com|
+|Cityblock Health|https://www.cityblock.com|
+|GoodRx|https://www.goodrx.com|
+|Grail|https://grail.com|
+|Headspace Health|https://www.headspacehealth.com|
+|Lyra Health|https://lyrahealth.com|
+|Modern Health|https://modernhealth.com|
+|Omada Health|https://www.omadahealth.com|
+

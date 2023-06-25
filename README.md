@@ -1,6 +1,6 @@
 # Noble Tech
 
-A list of companies with noble missions. Feel free to open a pull request or issue with more companies!
+A list of companies and organizations with noble missions. Note that this is a mix of for-profit, non-profit, and governmental entities. Feel free to open a pull request or issue with more companies!
 
 ## Civic Tech
 
@@ -30,9 +30,28 @@ A list of companies with noble missions. Feel free to open a pull request or iss
 |Company|Website|
 |---|---|
 |Carbon Direct|https://www.carbon-direct.com|
+|Crusoe|https://www.crusoeenergy.com|
 |Ebb Carbon|https://www.ebbcarbon.com|
 |Forerunner|https://www.withforerunner.com|
 |Pivot Bio|https://www.pivotbio.com|
+|Project Canary|https://www.projectcanary.com|
+
+## Education
+
+|Company|Website|
+|---|---|
+|Bezos Academy|https://bezosacademy.org|
+|BookNook|https://www.booknook.com|
+|Brilliant|https://brilliant.org|
+|IXL Learning|https://www.ixl.com|
+|Khan Academy|https://www.khanacademy.org|
+|Maven Learning|https://maven.com|
+|New Classrooms|https://newclassrooms.org|
+|NovoEd|https://novoed.com|
+|PowerSchool|https://www.powerschool.com|
+|Quill|https://www.quill.org|
+|Renaissance|https://www.renaissance.com|
+|Understood|https://www.understood.org|
 
 ## Elections
 
